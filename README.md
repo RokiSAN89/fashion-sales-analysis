@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RokiSAN89/fashion-sales-analysis/main/visuals/banner.png" alt="Fashion Sales Banner" width="100%" />
+  <img src="visuals/banner.png" alt="Fashion Sales Banner" width="100%" />
 </p>
 
 <h1 align="center">🌍 Fashion Sales Analysis (2023–2025)</h1>
